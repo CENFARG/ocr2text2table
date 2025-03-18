@@ -18,7 +18,7 @@
 ## 📌 **Abrir en Google Colab**  
 Haz clic en el botón para abrir y ejecutar el notebook en Google Colab:  
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/CENFARG/ocr2text2table/blob/main/OCR_simple_con_IA.ipynb?usp=copy)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CENFARG/ocr2text2table/blob/main/OCR_simple_con_IA.ipynb?usp=copy)
 
 ---
 
