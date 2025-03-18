@@ -18,7 +18,7 @@
 ## 📌 **Abrir en Google Colab**  
 Haz clic en el botón para abrir y ejecutar el notebook en Google Colab:  
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/TU_ID_AQUI?usp=copy)  
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/CENFARG/ocr2text2table/blob/main/OCR_simple_con_IA.ipynb?usp=copy)
 
 ---
 
@@ -60,9 +60,8 @@ Este notebook está bajo la licencia **MIT**, por lo que puedes usarlo y modific
 
 ## 📬 **Contacto**  
 Si tienes dudas o sugerencias, puedes escribirme:  
-📧 **Email:** [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)  
-🐦 **Twitter:** [@tu_usuario](https://twitter.com/tu_usuario)  
-💼 **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu_usuario)  
+📧 **Email:** [tu.email@ejemplo.com](mailto:cenf.arg@gmail.com)  
+🐦 **Web:** [@CENF WEB](https://www.cenfarg.com)
 
 ---
 ✨ ¡Gracias por usar esta herramienta! 🚀  
