@@ -60,7 +60,7 @@ Este notebook está bajo la licencia **MIT**, por lo que puedes usarlo y modific
 
 ## 📬 **Contacto**  
 Si tienes dudas o sugerencias, puedes escribirme:  
-📧 **Email:** [tu.email@ejemplo.com](mailto:cenf.arg@gmail.com)  
+📧 **Email:** [cenf.arg@gmail.com](mailto:cenf.arg@gmail.com)  
 🐦 **Web:** [@CENF WEB](https://www.cenfarg.com)
 
 ---
